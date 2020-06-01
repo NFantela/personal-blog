@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Niksa Fantela"
+theme="hugo-theme-cactus-plus"
+
+[params]
+    # My information
+    author = "Niksa Fantela"
+    description = "Personal web development blog"
+    bio = "Javascript (Typescript) Developer currently deep into Angular & RxJS"
+    copyright = "Personal Blog"
+
+    # Tools 
+    enableSummary = true
+    enableGoogleAnalytics = true
+    enableTwitterCard = true
+
+[social]
+    twitter = "https://twitter.com/FantelaNiksa"
+    github = "https://github.com/NFantela"
