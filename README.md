@@ -11,3 +11,6 @@
 # THEME
 Using HUGO cactus theme
 https://themes.gohugo.io/hugo-theme-cactus-plus/#installation
+
+# MARKDOWN TIPS
+https://guides.github.com/features/mastering-markdown/
