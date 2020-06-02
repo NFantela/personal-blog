@@ -5,9 +5,9 @@ theme="hugo-theme-cactus-plus"
 
 [params]
     # My information
-    author = "Niksa Fantela"
+    author = "Nikša Fantela"
     description = "Personal web development blog"
-    bio = "Javascript (Typescript) Developer currently deep into Angular & RxJS"
+    bio = "Javascript (Typescript) Developer from Croatia, currently deep into Angular & RxJS"
     copyright = "Copyright © 2020 Nikša Fantela"
 
     # Tools 
