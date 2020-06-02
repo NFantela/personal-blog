@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://niksa-fantela.web.app/"
 languageCode = "en-us"
 title = "Niksa Fantela"
 theme="hugo-theme-cactus-plus"
