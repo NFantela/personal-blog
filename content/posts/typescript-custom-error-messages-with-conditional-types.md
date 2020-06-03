@@ -6,7 +6,7 @@ description: Providing useful error messages to user when he types forbidden typ
 slug: typescript-custom-error-messages-with-conditional-types
 tags: ["typescript"]
 ---
-{{< figure src="/images/typescript-custom-error-messages-with-conditional-types.jpg" alt="Circular Imports in angular" >}}
+{{< figure src="/images/typescript-custom-error-messages-with-conditional-types.jpg" alt="Typescript custom error messages with Conditional types" >}}
 
 Sometimes when building code that uses custom Types we want to limit those custom types e.g. give the developer some kind of custom
 warning when he is trying to use our code. A good example is to create custom error type messages using **typescript conditional types.**
