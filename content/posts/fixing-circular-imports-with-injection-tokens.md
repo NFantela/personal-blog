@@ -1,6 +1,6 @@
 ---
 title: "Fixing Circular Imports in Angular using Injection Tokens"
-date: 2020-06-01T13:31:03+02:00
+date: 2020-05-10T13:31:03+02:00
 draft: false
 description: A quick fix to prevent Circular Imports error in Angular using Injection tokens.
 slug: fixing-circular-imports-in-angular-with-injection-tokens

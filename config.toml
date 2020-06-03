@@ -1,6 +1,6 @@
-baseURL = "https://niksa-fantela.web.app/"
+baseURL = "https://niksa-fantela.com/"
 languageCode = "en-us"
-title = "Niksa Fantela"
+title = "Nikša Fantela"
 theme="hugo-theme-cactus-plus"
 
 [params]

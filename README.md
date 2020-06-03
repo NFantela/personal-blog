@@ -6,6 +6,7 @@
 <ul>
 <li>Run App<code> hugo server -D</code> </li>
 <li>Create : post <code> hugo new posts/my-first-post.md</code> </li>
+<li>Build and create/populate public folder : <code>hugo</code></li>
 </ul>
 
 # THEME
