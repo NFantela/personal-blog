@@ -1,7 +1,7 @@
 ---
 title: "Bypassing ExpressionChangedAfterItHasBeenChecked Error in Angular"
-date: 2020-06-05T10:31:03+02:00
-draft: true
+date: 2020-06-15T10:31:03+02:00
+draft: false
 description: Most common error in Angular and simple ways of avoiding it.
 slug: bypassing-ExpressionChangedAfterItHasBeenCheckedError-in-angular
 tags: ["angular", "change-detection"]
