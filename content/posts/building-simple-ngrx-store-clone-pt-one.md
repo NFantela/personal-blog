@@ -81,6 +81,7 @@ At this point we need *Injection tokens* so we will add them from the ngrx token
 Since they will be provided in module file here in ReducerManager they are injected to provide us with reducers.
 We will also add utils.ts from the ngrx store with needed functions e.g. `combineReducers`.
 
+
 This is arguably the most complex part of the store after it gets easier.
 
 In the `constructor()` of ReducerManager class the following is happening. 
