@@ -1,6 +1,6 @@
 ---
 title: "Rebuilding Simple NGRX Store clone part two"
-date: 2020-06-30T10:31:03+02:00
+date: 2020-07-09T10:31:03+02:00
 draft: true
 description: Deconstructing NGRX store to small workable demo.
 slug: rebuilding-simple-ngrx-store-clone-pt-two

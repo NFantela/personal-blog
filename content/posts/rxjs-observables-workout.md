@@ -1,6 +1,6 @@
 ---
 title: "RxJS Observables Workout"
-date: 2020-06-22T10:31:03+02:00
+date: 2020-06-23T09:01:03+02:00
 draft: true
 description: Playing with different ways of RxJS Observables creation and usage.
 slug: rxjs-observables-workout
@@ -40,6 +40,9 @@ of subject subscribers (this is simmilar as example above but instead of using p
 {{< gist NFantela 6c2cc9713933d70912346ad91142b717 "custom-rxjs-operator.ts" >}}
 Finaly to top it all off and finish this *workout* we will create a custom operator that logs the stream value with optional custom message. Note that you can pass in other classes like *ngZone* in Angular etc.
 The .lift call creates a new observable with passed operator.
+
+> A Great article on  
+> [Creating Service as Observable](https://medium.com/its-tinkoff/service-as-observable-29ce7fa9085b)  by Vladimir Potekhin.
 
 
 ### Stackblitz demo for example above:
