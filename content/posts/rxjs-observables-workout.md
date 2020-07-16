@@ -1,7 +1,7 @@
 ---
 title: "RxJS Observables Workout"
 date: 2020-06-23T09:01:03+02:00
-draft: true
+draft: false
 description: Playing with different ways of RxJS Observables creation and usage.
 slug: rxjs-observables-workout
 tags: ["rxjs"]
