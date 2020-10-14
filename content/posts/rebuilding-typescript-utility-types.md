@@ -46,6 +46,9 @@ I have also applied these types in object type checks in examples *ObjWithExtrac
 {{< gist NFantela 699bbbf0c7bc5b7938699a2bcdc4e2e1 "my-non-nullable.ts" >}}
 This one is simple now.
 
+#### Extract type from Array, Object or Flat (primitive) type
+{{< gist NFantela 699bbbf0c7bc5b7938699a2bcdc4e2e1 "extract-type.ts" >}}
+
 
 
 #### Stackblitz demo for our custom types:
